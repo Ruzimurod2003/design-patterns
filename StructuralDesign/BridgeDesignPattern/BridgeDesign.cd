@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BridgeDesignPattern.AbstractRemoteControl">
+    <Position X="3.25" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABACAAAAAgAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>AbstractRemoteControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeDesignPattern.SamsungLedTv">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>SamsungLedTv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BridgeDesignPattern.SamsungRemoteControl">
+    <Position X="7.25" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>SamsungRemoteControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeDesignPattern.SonyLedTv">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>SonyLedTv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BridgeDesignPattern.SonyRemoteControl">
+    <Position X="0.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>SonyRemoteControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="BridgeDesignPattern.LEDTV">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>LEDTV.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
